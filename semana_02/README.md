@@ -4,7 +4,9 @@
 
 https://drive.google.com/file/d/1aX9rg5aSJvdkBleLt9OvK1IwSpwb6hxF/view?usp=sharing
 
-## Repositorio actividad GitHub
+## Control de versiones
+
+### Repositorio actividad GitHub
 
 https://github.com/utn-frc-pav1-3k5-2020/actividad_git_2020
 
