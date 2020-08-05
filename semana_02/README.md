@@ -2,7 +2,7 @@
 
 ## PPT Semana 2
 
-https://drive.google.com/file/d/1aX9rg5aSJvdkBleLt9OvK1IwSpwb6hxF/view?usp=sharing
+https://docs.google.com/presentation/d/1JC7ELipO7NOlntylFKlAZ1b-VCe7U-6bv190xdkv4Bg/edit?usp=sharing
 
 ## Control de versiones
 
