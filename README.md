@@ -10,7 +10,7 @@ https://join.slack.com/t/pav1-3k5-2020-utnfrc/shared_invite/zt-g549ny8l-fXNIVBHe
 
 ## Herramientas
 
-### Visual Studio 2019
+### Visual Studio 2019 - Community
 
 https://visualstudio.microsoft.com/es/vs/community/
 
